@@ -1,1 +1,1 @@
-# RT_PyGeo
+# Lipophilicity_PyGeo
