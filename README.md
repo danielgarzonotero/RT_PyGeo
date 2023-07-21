@@ -1,14 +1,16 @@
 # RT_PyGeo
 
-This study successfully developed a model for predicting CCS and RT values of peptides using a Graph
-Convolutional Neural Network approach. The architecture of the model, consisting of multiple Graph 
-Convolutional Layers and Linear Layers with ReLU activation, was optimized through hyperparameter tuning.
-The model demonstrated promising results, achieving high R2 values and accurately predicting peptide properties.
-The use of the validation set allowed for the evaluation of the model's generalization ability to unseen data. The
-findings suggest that the chosen LR and epoch sizes effectively facilitated convergence and reduced
-computational time. The model's performance indicated minimal overfitting, showcasing its ability to generalize
-well. Overall, these findings provide valuable insights and a solid starting point for future research in the field of
-peptide property prediction
+This study focuses on the exploration and development of a Graph Convolutional Neural Network (GCNN) model
+for accurately predicting Collision Cross-Section (CCS) and Retention Time (RT) values of peptides. The datasets
+used in this study are derived from the works conducted by Meier et al. and Rosenberger et al. The model
+architecture is optimized through hyperparameter tuning, including the selection of the number of hidden layers
+and their widths. Evaluation metrics, such as R-squared (R2), mean absolute error (MAE), root mean squared
+error (RMSE), and Pearson's correlation coefficient (R), are employed to assess the model's performance. The
+model achieves high R2 values of 0.9125 and 0.9414 for CCS and RT, respectively, demonstrating its accuracy
+in predicting peptide properties. The study concludes with suggestions for future work, such as incorporating
+more amino acid modifications, designing a hierarchical graph structure, and predicting additional peptide
+properties. These enhancements would further improve the versatility and comprehensiveness of the peptide
+property prediction model.
 
 
 # Dataset 
