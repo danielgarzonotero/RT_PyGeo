@@ -21,7 +21,7 @@ Quantify 10,000 Human Proteins by SWATH-MS. Sci Data 2014, 1 (1), 140031. https:
 Chem. 2018, 90 (18), 10881–10888. https://doi.org/10.1021/acs.analchem.8b02386.
 
 # Acknowledgments
-I would like to express my gratitude to Dr. Camille Bilodeau for her excellent mentorship and insightful
+I would like to express my gratitude to [Dr. Camille Bilodeau](https://github.com/cbilodeau2) for her excellent mentorship and insightful
 discussions, which have greatly enriched the learning experience throughout this study. I would also like to extend
 my appreciation to all the members of the [Bilodeau Group](https://bilodeau-group.com/) for their contributions and participation in the
 advancement of this work through our regular meetings. Their support and collaboration have been invaluable in
