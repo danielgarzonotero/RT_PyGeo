@@ -19,3 +19,10 @@ Faridi, P.; Ebhardt, H. A.; Matondo, M.; Lam, H.; Bader, S. L.; Campbell, D. S.;
 Quantify 10,000 Human Proteins by SWATH-MS. Sci Data 2014, 1 (1), 140031. https://doi.org/10.1038/sdata.2014.31.
 2) Ma, C.; Ren, Y.; Yang, J.; Ren, Z.; Yang, H.; Liu, S. Improved Peptide Retention Time Prediction in Liquid Chromatography through Deep Learning. Anal.
 Chem. 2018, 90 (18), 10881–10888. https://doi.org/10.1021/acs.analchem.8b02386.
+
+# Acknowledgments
+I would like to express my gratitude to Dr. Camille Bilodeau for her excellent mentorship and insightful
+discussions, which have greatly enriched the learning experience throughout this study. I would also like to extend
+my appreciation to all the members of the [Bilodeau Group](https://bilodeau-group.com/) for their contributions and participation in the
+advancement of this work through our regular meetings. Their support and collaboration have been invaluable in
+the progress and success of this work.
