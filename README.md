@@ -21,6 +21,9 @@ Quantify 10,000 Human Proteins by SWATH-MS. Sci Data 2014, 1 (1), 140031. https:
 2) Ma, C.; Ren, Y.; Yang, J.; Ren, Z.; Yang, H.; Liu, S. Improved Peptide Retention Time Prediction in Liquid Chromatography through Deep Learning. Anal.
 Chem. 2018, 90 (18), 10881–10888. https://doi.org/10.1021/acs.analchem.8b02386.
 
+# Results
+<img width="518" alt="image" src="https://github.com/danielgarzonotero/RT_PyGeo/assets/122416545/ef98f3b3-854a-43a5-87dc-c1478dcb1886">
+
 # Acknowledgments
 I would like to express my gratitude to [Dr. Camille Bilodeau](https://github.com/cbilodeau2) for her excellent mentorship and insightful
 discussions, which have greatly enriched the learning experience throughout this study. I would also like to extend
